@@ -1,5 +1,5 @@
 
-Лабораторная №2
+Lab work on the subject of Windows Application Development number 2 УСЛОВИЕ
 
 Создать новую форму, на форму добавить GroupBox, будем использовать для элементов
 управления и выбрать для него заполнение справа (свойство Dock).
